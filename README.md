@@ -41,11 +41,11 @@ Effective program management requires cross-functional collaboration. This pilot
 ---
 
 ## Repo Structure
-data/ → Synthetic CSVs (samples + generated sets)
-notebooks/ → Python analysis + visualization
-dashboard/ → Power BI dashboard (rideROI.pbix)
-reports/ → Evaluation briefs & presentation slides
-docs/ → HRSA references, notes
+- data/ → Synthetic CSVs (samples + generated sets)
+- notebooks/ → Python analysis + visualization
+- dashboard/ → Power BI dashboard (rideROI.pbix)
+- reports/ → Evaluation briefs & presentation slides
+- docs/ → HRSA references, notes
 
 
 ---
